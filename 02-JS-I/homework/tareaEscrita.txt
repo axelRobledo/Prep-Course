@@ -1,0 +1,30 @@
+variable=
+las variables son datos almacenados en el programa.
+Que sirven para luego usarlos en funciones,en cuentas,
+etc..
+hay tres tipos de variables(var,let,const)
+string=
+los datos tipo string son todo tipo de caracter que
+este entre comillas,son un conjunto de 
+caracteres que forman un numero o una frase.
+funciones=
+las funciones estan creadas para ahorrarnos codigo,
+sirven para realizar acciones o cuentas.
+hay tres tipos de funciones(flecha,anonima y 
+la que es llamada con la palabra function)
+dentro de las funciones debemos pasarle argumentos,
+que en cierta forma es como nosotros le decimos
+a la funcion lo que queremos lograr con ella.
+con la palabra clave return le estamos idicando a la funcion
+que queremos que nos retorne despues de ejecutarla.
+declaracion "if"=
+if es usada para dentro de la funcion indicar 
+que si una condicion se cumpla, la funcion retorne algo,
+y si esa condicion no se llega a cumplir devuelva por defecto
+otra cosa.
+valores booleanos=
+los valores booleanos son dos(true,false), 
+indican que algo se cumple
+o no, si algo se cumple por ejemplo en un "if"
+indica que esa condicon es verdadera de ese 
+modo esa funcion puede ser llevada a cabo.
