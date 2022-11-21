@@ -1,0 +1,10 @@
+for=
+el for se usa para hacer tareas repetitivas,y no tener
+que repetir codigo.
+&&=
+el && se usa para comprobar que los dos datos sean 
+veraderos(si uno es falso ya da como resultado false)
+||= 
+en el or a diferencia del && no es necesario que los dos
+sean verdaderos,con que un dato sea verdadero 
+el resultado ya dara true.
