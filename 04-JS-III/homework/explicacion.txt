@@ -1,0 +1,4 @@
+arrays=
+los arrays,al igual que las variables son datos
+almacenados,que se utilizan para guardar
+strings,numeros,valores booleanos,funciones.
